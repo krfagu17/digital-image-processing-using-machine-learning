@@ -1,6 +1,7 @@
 Flask
 numpy
-Pillo
+
 scikit-learn
 opencv-python
 Gunicorn
+Pillow
